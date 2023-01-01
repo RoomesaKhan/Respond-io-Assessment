@@ -1,0 +1,14 @@
+{
+  "name": "task1-ui-tests",
+  "version": "1.0.0",
+  "description": "Task1 UI Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roomesa Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.2.0"
+  }
+}
